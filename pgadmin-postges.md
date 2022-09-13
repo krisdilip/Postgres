@@ -14,6 +14,9 @@
 4. Register - Server
    
     HostName/address =  127.0.0.1
+
     Port = 5432
+
     Maintenance Database = postgres
+    
     Username = postgres
